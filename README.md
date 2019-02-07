@@ -21,9 +21,15 @@ slightly more complicated as I might no be able to just use metal hooks to attac
 
 ### Schedule
 Feb 6 - Planning
+
 Feb 7 to 13 - Code
+
 Feb 13 to 15 (less if I don't do a circuit board) - Wiring
+
 Feb 15 to 19 (due to President's day) - Payload design and creation
+
 Feb 20 to 22 - Launcher design
+
 Feb 25 to 28 - Launcher creation
+
 Mar 1 to 4 (due to weekend) - Fixing issues, likely testing and refining code, finishing project!

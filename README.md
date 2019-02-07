@@ -17,7 +17,7 @@ If it isn't, the Reimann sum used to calculate velocity will be entirely innacur
 for the launch, because this would keep it well enough oriented to allow for the proper accelerometer data to be gathered.
 Another potential challenge will be finding a proper cord to use for propulsion. I don't want to make the launcher particularly large, and I want the cord to be taught even at its resting position,
 meaning I'll need quite a short cord that still has enough power to launch the pi some feet in the air. If I end up using something else like an exercise band this issue would be eliminated, but it would also make the design
-slightly more complicated as I might no be able to just use metal hooks to attach propulsion mechanism.
+slightly more complicated as I might no be able to just use metal hooks to attach the propulsion mechanism.
 
 ### Schedule
 Feb 6 - Planning

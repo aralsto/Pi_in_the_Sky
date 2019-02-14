@@ -12,7 +12,7 @@ elaborate on in the challenges section, however, it is imperative that the accel
 want to keep the payload as minimal as possible, so it will likely just be a small piece of foam board with slots for the pi, accelerometer, LED, and perhaps a small circuit board if that seems necessary.
 
 ### Challenges
-There are a number of potentiall challenges and issues with this project. First and foremost, the accelerometer MUST be parallel to the groud (or in some other fixed orientation) for the entirety of the acceleration.
+There are a number of potential challenges and issues with this project. First and foremost, the accelerometer MUST be parallel to the groud (or in some other fixed orientation) for the entirety of the acceleration.
 If it isn't, the Reimann sum used to calculate velocity will be entirely innacurate, and the main idea behind the project (finding the peak of the flight) will be impossible. This is why I wanted the pi to be on a rail
 for the launch, because this would keep it well enough oriented to allow for the proper accelerometer data to be gathered.
 Another potential challenge will be finding a proper cord to use for propulsion. I don't want to make the launcher particularly large, and I want the cord to be taught even at its resting position,

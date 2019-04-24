@@ -33,3 +33,9 @@ Feb 20 to 22 - Launcher design
 Feb 25 to 28 - Launcher creation
 
 Mar 1 to 4 (due to weekend) - Fixing issues, likely testing and refining code, finishing project!
+
+## Finished Project
+This is the documentation of the actual finished project with explanations about the wiring, code, solidworks, and changes to the design from the planning phase.
+
+### Changes
+The project changed quite a bit from the planning phase. Its final form is a minimalist package that 

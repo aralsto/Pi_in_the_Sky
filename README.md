@@ -33,3 +33,9 @@ Feb 20 to 22 - Launcher design
 Feb 25 to 28 - Launcher creation
 
 Mar 1 to 4 (due to weekend) - Fixing issues, likely testing and refining code, finishing project!
+
+## Finished Project
+This is the documentation of the actual finished project with explanations about the wiring, code, solidworks, and changes to the design from the planning phase.
+
+### Changes
+The project changed quite a bit from the planning phase. I settled on simply making a compact package that one can flip a switch to automatically start up, and once it is "armed" throw it in the air to have it blink an LED at the peak of the flight.

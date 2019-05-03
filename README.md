@@ -44,3 +44,6 @@ for a second, then both turn off and the program ends. The switch simply closes 
 expanded on in the Solidworks section. The basic gist is that when I used the mounts I made for the accelerometer, it spun too much and gave innacurate readings because of it. The final change in the project was that I was
 initially going to have it record the data from each flight, but I decided against that as in testing I had already seen the data and it really isn't interesting. If I ever wish to have the data, it's an easy addition,
 but I don't see value in using processing power to record it every time.
+
+### Solidworks
+[Here](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Images/Mount.PNG) is an image of the one solidworks part used in the project, a small mount that holds together the pi, the battery, and the accelerometer.

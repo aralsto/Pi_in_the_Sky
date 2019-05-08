@@ -46,4 +46,13 @@ initially going to have it record the data from each flight, but I decided again
 but I don't see value in using processing power to record it every time.
 
 ### Solidworks
-[Here](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Images/Mount.PNG) is an image of the one solidworks part used in the project, a small mount that holds together the pi, the battery, and the accelerometer.
+[Here](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Images/Mount.PNG) is an image of the one solidworks part used in the project, a small mount that holds together the pi, the battery, and the accelerometer.The battery friction fits into the slot that sticks out of the mount, and the accelerometer was originally intended to be secured with the holes on top of the slot. However, as seen in the actual pictures
+I ended up attaching it to one of the holes used for the pi. This is because when the accelerometer was positioned on its actual mount, it was far enough away from the center of rotation that it was reading too large an amount
+of acceleration from rotation. This threw it off enough to make its prediction of the flight peak extremely innacurate and practically worthless. Though the accelerometer still rotates in its new position, it is usually
+along the axis that runs lengthways around the pi, meaning the accelerometer doesn't actually move much at all. The only other thing worth noting about this solidworks part is that I had to file down part of the mount
+slightly so that the pi would sit flush where the HDMI port is. In the future, these grooves could be added in the solidworks phase to save time and effort.
+
+
+### Code
+[Here](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Python/Pi_in_the_Sky.py) is the code for this project. The comments should explain everything. One thing to note is that I orignially had the code turn off the pi
+after finishing the program, but I removed that functionality when I realized it made it obnoxious to actually access the pi otherwise.

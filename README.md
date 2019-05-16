@@ -56,3 +56,7 @@ slightly so that the pi would sit flush where the HDMI port is. In the future, t
 ### Code
 [Here](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Python/Pi_in_the_Sky.py) is the code for this project. The comments should explain everything. One thing to note is that I orignially had the code turn off the pi
 after finishing the program, but I removed that functionality when I realized it made it obnoxious to actually access the pi otherwise.
+
+### Wiring
+The wiring for this project is very simple, as I just have the LSM303 accelerometer wired as usual, two LED's wired to ground and their respective GPIO pins, the negative lead of a battery wired to ground, and the positive
+lead of the battery going through a switch to a 3.3v pin. There isn't much else to say, and the wiring can be see in [these](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Images/Overview.jpg) [two](https://github.com/aralsto/Pi_in_the_Sky/blob/master/Images/Underview.jpg) images.
